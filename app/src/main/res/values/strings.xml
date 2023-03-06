@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="coordinates">%f/%f</string>
+</resources>
